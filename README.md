@@ -2,6 +2,7 @@
 
 EmployeeHub is a modern, modular, production-ready full-stack Employee Management System designed for enterprise workforce administration, analytics, and record-keeping.
 
+
 ---
 
 ## 🚀 Tech Stack
@@ -288,5 +289,6 @@ The application is structured to facilitate seamless containerization and deploy
 - **Vite Production Bundle**: Frontend compiles down to static HTML/CSS/JS ready for Nginx or CDN serving.
 - **Kubernetes / AKS Readiness**: Health check endpoint `/api/health` is ready for Kubernetes liveness and readiness probes (`livenessProbe` and `readinessProbe`).
 - **No hardcoded credentials**: All connection endpoints and port bindings are configurable via environment variables.
-#   e m p l o y e e _ m a n a g m e n t _ p o r t a l  
+#   e m p l o y e e _ m a n a g m e n t _ p o r t a l 
+ 
  
